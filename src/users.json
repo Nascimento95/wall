@@ -1,0 +1,146 @@
+[
+  {
+    "picture": "http://placehold.it/128x128",
+    "name": "Angelina Alvarado",
+    "email": "angelinaalvarado@zillacon.com",
+    "phone": "+1 (873) 550-2688",
+    "address": "774 Manhattan Court, Derwood, California, 4465",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+    "registered": "2020-10-01T11:06:17 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Johns Joseph",
+        "picture": "https://i.pravatar.cc/151"
+      },
+      {
+        "id": 1,
+        "name": "Brianna Chaney",
+        "picture": "https://i.pravatar.cc/152"
+      },
+      {
+        "id": 2,
+        "name": "Amparo Herrera",
+        "picture": "https://i.pravatar.cc/153"
+      },
+      {
+        "id": 3,
+        "name": "Mary Howard",
+        "picture": "https://i.pravatar.cc/154"
+      },
+      {
+        "id": 4,
+        "name": "Kelli Hewitt",
+        "picture": "https://i.pravatar.cc/155"
+      }
+    ]
+  },
+  {
+    "picture": "http://placehold.it/128x128",
+    "name": "Sweet Farley",
+    "email": "sweetfarley@zillacon.com",
+    "phone": "+1 (857) 479-3469",
+    "address": "848 Prospect Place, Finzel, Virgin Islands, 6133",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+    "registered": "2019-05-09T11:47:08 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lydia Allison",
+        "picture": "https://i.pravatar.cc/157"
+      },
+      {
+        "id": 1,
+        "name": "Teresa Ortiz",
+        "picture": "https://i.pravatar.cc/158"
+      },
+      {
+        "id": 2,
+        "name": "Allyson Ewing",
+        "picture": "https://i.pravatar.cc/159"
+      },
+      {
+        "id": 3,
+        "name": "Dawn Everett",
+        "picture": "https://i.pravatar.cc/160"
+      },
+      {
+        "id": 4,
+        "name": "Palmer Vasquez",
+        "picture": "https://i.pravatar.cc/161"
+      }
+    ]
+  },
+  {
+    "picture": "http://placehold.it/128x128",
+    "name": "Vargas Colon",
+    "email": "vargascolon@zillacon.com",
+    "phone": "+1 (851) 484-3731",
+    "address": "325 Navy Street, Gwynn, Montana, 455",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+    "registered": "2014-05-02T12:57:57 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Amalia Yang",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 1,
+        "name": "Beatrice Conley",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 2,
+        "name": "Fitzpatrick Bernard",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 3,
+        "name": "Tommie Solomon",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 4,
+        "name": "Alisa Gaines",
+        "picture": "https://i.pravatar.cc/150"
+      }
+    ]
+  },
+  {
+    "picture": "http://placehold.it/128x128",
+    "name": "Leona Francis",
+    "email": "leonafrancis@zillacon.com",
+    "phone": "+1 (934) 493-3276",
+    "address": "493 Newkirk Avenue, Joppa, Illinois, 1898",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+    "registered": "2016-04-27T07:08:48 -02:00",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Burks Navarro",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 1,
+        "name": "Ada Berger",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 2,
+        "name": "Chase Brooks",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 3,
+        "name": "Tammy Washington",
+        "picture": "https://i.pravatar.cc/150"
+      },
+      {
+        "id": 4,
+        "name": "Odonnell Simpson",
+        "picture": "https://i.pravatar.cc/150"
+      }
+    ]
+  }
+]
